@@ -5,7 +5,7 @@ An FPL (Fantasy Premier League) predictor for the next gameweek. It reads live d
 ![Gameweek Oracle screenshot](docs/screenshot.png)
 <!-- Add a screenshot at docs/screenshot.png (the hero or the Oracle XI pitch works best). -->
 
-**Live demo:** [github](https://muhaimin-ihsan.github.io/gameweek-oracle/gameweek-oracle.html)
+**Live demo:** [Gameweek-Oracle](https://muhaimin-ihsan.github.io/gameweek-oracle/gameweek-oracle.html)
 
 ## Features
 
