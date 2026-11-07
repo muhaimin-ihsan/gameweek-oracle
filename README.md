@@ -85,7 +85,3 @@ All data comes from the public Fantasy Premier League API (`https://fantasy.prem
 ## Disclaimer
 
 Gameweek Oracle is an independent fan project. It is not affiliated with or endorsed by the Premier League or Fantasy Premier League. Club names belong to their owners.
-
-## License
-
-MIT. Add a `LICENSE` file if you use it.
