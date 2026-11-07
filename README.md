@@ -2,8 +2,8 @@
 
 An FPL (Fantasy Premier League) predictor for the next gameweek. It reads live data from the official FPL API, rates every team and player, and estimates who is most likely to score well. The output is a single web page you can open in any browser.
 
-![Gameweek Oracle screenshot](docs/screenshot.png)
-<!-- Add a screenshot at docs/screenshot.png (the hero or the Oracle XI pitch works best). -->
+![Gameweek Oracle screenshot](screenshot.png)
+
 
 **Live demo:** [Gameweek-Oracle](https://muhaimin-ihsan.github.io/gameweek-oracle/gameweek-oracle.html)
 
