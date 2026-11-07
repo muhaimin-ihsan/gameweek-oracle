@@ -1,0 +1,5 @@
+# Raw FPL API downloads (re-fetched by src/refresh.sh)
+src/bs.json
+src/fixtures.json
+src/live*.json
+__pycache__/
